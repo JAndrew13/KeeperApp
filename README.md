@@ -8,6 +8,9 @@
 
 The Keeper app is a simple post-it note style web-app built with using React. Users can create notes that are safely stored in a local Mongo database and displayed neatly on the homepage grid.
 
+
+<img src="https://github.com/JAndrew13/KeeperApp/blob/main/Keeper.jpg" width="600">
+
 <!-- TABLE OF CONTENTS -->
   #### Table of contents
 + [Prerequisites](#prerequisites)
@@ -61,20 +64,20 @@ The `.env` file will contain your sensitive information, thus it is not included
 <!-- DIRECTORY -->
 ## Directory
 
-### [/public]()
+### [/public](https://github.com/JAndrew13/KeeperApp)
 **styles.css**
 CSS style sheet linked to the main HTML document.
 
 **index.html**
 This is the main HTML file connecting the styles to the react app.
 
-### [/src]()
+### [/src](https://github.com/JAndrew13/KeeperApp/tree/main/src)
 Contains react components folder, as well as the index.js file.
 
 **index.js**
 Imports React and renders the main keeper app.
 
-### [/components]()
+### [/components](https://github.com/JAndrew13/KeeperApp/tree/main/src/components)
 **App.jsx**
 Imports and controls all components listed below, as well as the "add" and "delete" note functions.
 
