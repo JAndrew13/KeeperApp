@@ -1,0 +1,5 @@
+run the docker container with powershell:
+docker-compose up -d --build
+
+stop with:
+ docker-compose stop
