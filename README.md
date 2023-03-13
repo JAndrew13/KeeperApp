@@ -8,7 +8,7 @@
 
 The Keeper app is a simple post-it note style web-app built with using React. Users can create notes that are safely stored in a local Mongo database and displayed neatly on the homepage grid.
 
-Take a look at the [live project](keeper.jakebrunner.com)
+Take a look at the [live project](https://keeper.jakebrunner.com/)
 
 
 <img src="https://github.com/JAndrew13/KeeperApp/blob/main/Keeper.jpg" width="600">
